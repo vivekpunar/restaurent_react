@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+<p align="center">
+  <img src="demo.png" width="350" title="hover text">
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
